@@ -2,7 +2,7 @@
 """
 This module contains utility functions for Python built-in module `argparse`.
 """
-
+from __future__ import absolute_import
 
 # Standard imports
 from argparse import ArgumentTypeError
